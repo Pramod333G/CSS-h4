@@ -32,7 +32,7 @@ a{
     height: fit-content;
     display: flex;
     flex-flow: row wrap;
-    margin: 20px;
+    margin-top: 20px;
     justify-content: space-evenly;
 
 }
